@@ -6,7 +6,10 @@
 golang installation instructions can be found here: 
 https://golang.org/doc/install
 
-After installing golang, go-morsecode can be installed by running the following commands
+codegangsta/cli can be intalled by running the following command
+`go get github.com/codegangsta/cli`
+
+After installing golang and cli, go-morsecode can be installed by running the following commands
 
 `git clone https://github.com/aryasaatvik/go-morsecode.git` or by downloading it as zip archive.
 
