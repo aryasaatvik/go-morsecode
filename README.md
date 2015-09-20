@@ -1,4 +1,4 @@
-# go-morsecode by Saatvik Arya
+# go-morsecode by Saatvik Arya ($!n!st3r)
 `morse.go` is command line utility built with go which encodes and decodes morsecode.
 
 ## Installation
