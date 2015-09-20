@@ -1,3 +1,8 @@
+ /*************************************************************************
+ * go-morsecode
+ * Saatvik Arya
+ * <aryasaatvik@gmail.com>
+ */
 package main
 
 import (
